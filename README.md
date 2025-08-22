@@ -22,14 +22,6 @@ The project uses a **customer dataset** with the following features:
 - **Annual Income (k$)**: Customer income in thousands  
 - **Spending Score (1-100)**: Score assigned based on spending patterns  
 
-> Dataset Example:
-| CustomerID | Gender | Age | Annual Income (k$) | Spending Score (1-100) |
-|------------|--------|-----|--------------------|-------------------------|
-| 0001       | Male   | 19  | 15                 | 39                      |
-| 0002       | Male   | 21  | 15                 | 81                      |
-| 0003       | Female | 20  | 16                 | 6                       |
-
----
 
 ## ⚙️ Technologies Used
 - **Python 3.x**
